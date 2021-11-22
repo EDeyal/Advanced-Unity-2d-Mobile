@@ -1,0 +1,140 @@
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:04:51 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 662.1405ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 450ms
+candidates check time : 34ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:39:06 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.8745ms
+moved types parse time: 40ms
+candidates parse time : 1ms
+C# parse time         : 157ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:39:17 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.8836ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 150ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:47:17 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.8817ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 147ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:48:14 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8856ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 152ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:48:42 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8859ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 148ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:49:13 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.883ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 149ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:49:22 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.9028ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 149ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:49:25 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8845ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 151ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:50:09 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8862ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 156ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:50:21 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.8825ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 157ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:50:25 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 43.8812ms
+moved types parse time: 42ms
+candidates parse time : 1ms
+C# parse time         : 152ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:51:07 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8849ms
+moved types parse time: 41ms
+candidates parse time : 1ms
+C# parse time         : 151ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11/22/2021 6:58:53 PM : Starting C:/Users/edeya/OneDrive/Unity projects/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 42.8859ms
+moved types parse time: 41ms
+candidates parse time : 0ms
+C# parse time         : 153ms
+candidates check time : 35ms
+console write time    : 0ms
+
